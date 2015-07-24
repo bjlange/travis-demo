@@ -2,5 +2,6 @@ import deansux.bald
 
 DEAN = bald.Dean()
 
+
 def run():
-    DEAN.hello()
+    return DEAN.hello()
