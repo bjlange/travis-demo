@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bjlange/travis-demo.svg?branch=master)](https://travis-ci.org/bjlange/travis-demo)
+
 # travis-demo
 
 During this interactive session, we will (i) create a python package, (ii)
